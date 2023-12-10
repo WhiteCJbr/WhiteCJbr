@@ -10,7 +10,10 @@
 * 💟 I love writing Python and C but I always challenge myself in other languages
 
 ## Technologies and Tools 💻
-<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /> ![icons8-html5-48](https://github.com/WhiteCJbr/WhiteCJbr/assets/120740360/65484310-a56f-4e0f-9426-cfb08e489d64) ![icons8-css3-48](https://github.com/WhiteCJbr/WhiteCJbr/assets/120740360/9a1aea49-ab62-432c-8ec4-d83015d2b6c5) ![icons8-bootstrap-48](https://github.com/WhiteCJbr/WhiteCJbr/assets/120740360/d955033f-698e-4f56-8d24-f671eaf02f85)
+
+
+
 ## Learning
 <img width="40" height="40" src="https://static-00.iconduck.com/assets.00/assembly-icon-1024x1024-lc5e1bk1.png"/> <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" />
 
