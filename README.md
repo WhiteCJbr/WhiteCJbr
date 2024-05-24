@@ -5,9 +5,9 @@
 </div>
 
 ## About Me 😄
-* 🎓 Computer Science Student at [IFSP](https://slt.ifsp.edu.br/index.php/component/content/article/2-uncategorised/567-cursos-tecnicos-2)
+* 🎓 Computer Science Student at [IFSP](https://slt.ifsp.edu.br/index.php/)
 * 📖 Ethical Hacking Student
-* 💟 I love writing Python and C but I always challenge myself in other languages
+* 💟 I love coding Python, C and Java but I always challenge myself in other languages
 
 ## Technologies and Tools 💻
 <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /> <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" /> ![icons8-html5-48](https://github.com/WhiteCJbr/WhiteCJbr/assets/120740360/65484310-a56f-4e0f-9426-cfb08e489d64) ![icons8-css3-48](https://github.com/WhiteCJbr/WhiteCJbr/assets/120740360/9a1aea49-ab62-432c-8ec4-d83015d2b6c5) ![icons8-bootstrap-48](https://github.com/WhiteCJbr/WhiteCJbr/assets/120740360/d955033f-698e-4f56-8d24-f671eaf02f85)
