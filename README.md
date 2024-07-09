@@ -1,6 +1,7 @@
 <div align="center">
 
-![LogoPerfil](https://github.com/WhiteCJbr/WhiteCJbr/assets/120740360/ed7dc7d7-805d-4bfc-84fe-ce47b5c3d440)
+![Logo Perfil](https://github.com/WhiteCJbr/WhiteCJbr/assets/120740360/362fe345-b709-4156-b945-4dd75f5959fa)
+
 
 </div>
 
