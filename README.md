@@ -14,7 +14,8 @@
 
 
 ## Learning
-<img width="40" height="40" src="https://static-00.iconduck.com/assets.00/assembly-icon-1024x1024-lc5e1bk1.png"/> <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" />
+<img width="40" height="40" src="https://static-00.iconduck.com/assets.00/assembly-icon-1024x1024-lc5e1bk1.png"/> <img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+          
 
 <div>
 <a href="https://github.com/WhiteCJbr">
