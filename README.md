@@ -6,7 +6,7 @@
 </div>
 
 ## About Me 😄
-* 🎓 Computer Science Student at [IFSP](https://slt.ifsp.edu.br/index.php/)
+* 🎓 Computer Scientist.
 * 📖 Ethical Hacking Student
 * 💟 I love coding Python, C, Java, C# and Javascript
 
